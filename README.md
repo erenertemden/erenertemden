@@ -9,13 +9,6 @@ I’m a software engineer who enjoys building projects with clean code and pract
 - Continuously learning and exploring new frameworks
 - Open source contributor mindset
 
-## Technologies
-
-- Frontend: HTML, CSS, JavaScript, React, Vue
-- Backend: Node.js, Express, Python, Django
-- Databases: PostgreSQL, MongoDB, MySQL
-- Tools: Git, Docker, VS Code, Linux
-
 ## Interests
 
 - Web applications and user experience
@@ -26,6 +19,6 @@ I’m a software engineer who enjoys building projects with clean code and pract
 ## Contact
 
 - GitHub: https://github.com/erenertemden
-- Email: eren@example.com
+- Email:
 
 > I enjoy writing code, learning continuously, and sharing what I build. Every project is an opportunity to grow.
