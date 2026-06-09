@@ -17,8 +17,10 @@ I work on a production microservices architecture in an AI team. Day to day I bu
 
 Outside of work I explore where **ML meets the physical world**, running models on small devices and the software behind aerospace / autonomous systems.
 
--  **TinyML** — quantization, on-device inference, edge anomaly detection for predictive maintenance and health monitoring
--  **FADEC & engine control** — studying embedded control software, real-time systems, and how engines are controlled in software
+-  **TinyML**
+   quantization, on-device inference, edge anomaly detection for predictive maintenance and health monitoring
+-  **FADEC & engine control**
+   studying embedded control software, real-time systems, and how engines are controlled in software
 -  Embedded development with C and microcontrollers
 
 I want to be the rare engineer who can take a model from **data -> training -> edge device -> monitoring** end to end.
