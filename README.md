@@ -1,12 +1,12 @@
 # Hi, I'm Eren
 
-Software Engineer based in Ankara, Turkey. I build backend systems and AI services, and on the side I work on **edge ML (TinyML)** and **embedded / aerospace control software**.
+Software Development Engineer based in Ankara, Turkey. I build backend systems and AI services, and on the side I work on **edge ML (TinyML)** and **embedded / aerospace control software**.
 
 ---
 
 ### What I do now
 
-I work on a production microservices architecture in an AI team. Day to day I build backend services, REST APIs, and AI/LLM features, and I keep them running in production.
+I work on a production microservices architecture in an AI team. Day to day I build backend services, REST APIs, and AI/LLM features, and I keep them running in production with Big Data.
 
 - **Backend & microservices:** Java (Spring Boot), Python (FastAPI), REST APIs
 - **AI / ML:** LLM-based RAG services, NL2SQL chatbots, intent detection, plus decision-making, prediction, and recommendation models
