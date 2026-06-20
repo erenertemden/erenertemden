@@ -29,7 +29,7 @@ I want to be the rare engineer who can take a model from **data -> training -> e
 
 ### Featured
 
-- **[poleposition](https://github.com/polepos/poleposition)** — A project-lifecycle CLI for enterprise FastAPI, published on [PyPI](https://pypi.org/project/poleposition/). Most FastAPI tooling stops at scaffolding; poleposition manages the **whole life of the codebase** — project creation, module growth, Kafka integration, Alembic migrations, JWT auth, Docker, and structured logging — all through the CLI as the project evolves.
+- **[poleposition](https://github.com/polepos/poleposition)** — [A project-lifecycle CLI for enterprise FastAPI](https://polepos.github.io/poleposition/), published on [PyPI](https://pypi.org/project/poleposition/). Most FastAPI tooling stops at scaffolding; poleposition manages the **whole life of the codebase** — project creation, module growth, Kafka integration, Alembic migrations, JWT auth, Docker, and structured logging — all through the CLI as the project evolves.
 
 ### Toolbox
 
